@@ -1,0 +1,33 @@
+.carousel-control-prev-icon{
+    background-color: rgba(0, 0, 0, 0.673);
+    border-radius: 20%;
+    margin-right: 5rem;
+    margin-bottom: 2rem;
+}
+.carousel-control-next-icon{
+    background-color: rgba(0, 0, 0, 0.673);
+    border-radius: 20%;
+    margin-left: 5rem;
+    margin-bottom: 2rem;
+}
+
+.card{
+    border-radius: .55rem;
+}
+
+.itm{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    height: 180px;
+    margin-left: 5rem;
+    margin-right: 5rem;
+}
+
+.head{
+    font-family: inherit;
+    font-size: x-large;
+    margin-top: 1rem;
+    margin-bottom: -2rem;
+    color: rgb(35, 35, 35);
+}
